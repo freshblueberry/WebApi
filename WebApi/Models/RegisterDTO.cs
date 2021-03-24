@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace eCommerceAPI.Models
+namespace WebApi.Models
 {
     public class RegisterDTO
     {

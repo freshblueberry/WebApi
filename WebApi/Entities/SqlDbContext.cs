@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
 
-namespace eCommerceAPI.Entities
+namespace WebApi.Entities
 {
     public class SqlDbContext : DbContext
     {
